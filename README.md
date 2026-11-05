@@ -66,14 +66,14 @@ Edit the bot-authme-first.js file with your own settings:
 ```
 {
   "server": {
-    "host": "your.minecraft.server.ip",
-    "port": 25565,
-    "version": "1.20.4"
+    "host": "lifestealxxsmp.pxlmc.com",
+    "port": 2022,
+    "version": "26.2"
   },
   "bot": {
-    "username": "YourBotName",
+    "username": "eleken67",
     "auth": "offline",
-    "authmePassword": "YourAuthMePassword"
+    "authmePassword": "azertyuiop"
   },
   "serverCommands": {
     "enabled": true,
